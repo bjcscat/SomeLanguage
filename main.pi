@@ -1,0 +1,8 @@
+let Epic: byte = "bruh";
+if (Epic == 32767) {
+	return true;
+}
+
+fn BitMax(Bits) -> (int64) {
+	return exp(2, Bits);
+}
